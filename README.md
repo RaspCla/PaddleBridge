@@ -8,5 +8,5 @@ This project is licensed under the [PolyForm Noncommercial License 1.0.0](https:
 Noncommercial use and modification are permitted; commercial use requires prior
 agreement with the author. The full license text is in [LICENSE](LICENSE).
 
-Required Notice: Copyright (c) 2026 RaspCla (https://github.com/RaspCla)
+Required Notice: Copyright (c) 2026 RaspCla (https://github.com/RaspCla)<br>
 Required Notice: Project: cwPaddle2USBandBluetooth (https://github.com/RaspCla/PaddleBridge)
