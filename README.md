@@ -1,6 +1,7 @@
 # PaddleBridge
 This Windows app allows to connect a morse paddle which is connected via a USB Midi interface (e.g. my [cwPaddle2USBandBluetooth adapter/interface](https://github.com/RaspCla/cwPaddle2USBandBluetooth)) to a software Trx, e.g. Simon Brown's SDR-Console.
-<br> 
+<br>
+
 ## Features
 * generates an adjustable morse tone (forwarded to Trx e.g. via virtual sound card) 
 * adjustable midi tones for 'dit' and 'dah' recognition
@@ -8,6 +9,9 @@ This Windows app allows to connect a morse paddle which is connected via a USB M
   * adjustable commands for TX and RX
   * adjustable lead- and holding time for PTT   
 * "lambic A" or "lambic B" mode with adjustable Tempo
+
+## Build tool
+* Visual Studio 2026
 <br> 
 <br>
 <br>
