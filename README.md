@@ -1,9 +1,13 @@
 # PaddleBridge
-## Rough description
-This Windows app adapts a morse paddle which is connected via a USB Midi interface (e.g. my [cwPaddle2USBandBluetooth adapter/interface](https://github.com/RaspCla/cwPaddle2USBandBluetooth)) to a morse tone and PTT command (via virtual sound card and virtual serial interface).<br> 
-Additional this app will add a "lambic A" or "lambic B" mode with adjustable Tempo and Pitch.<br>
-
-With this solution you are able to connect a standard morse paddle e.g. to Simon Brown's SDR-Console.<br> 
+This Windows app allows to connect a morse paddle which is connected via a USB Midi interface (e.g. my [cwPaddle2USBandBluetooth adapter/interface](https://github.com/RaspCla/cwPaddle2USBandBluetooth)) to a software Trx, e.g. Simon Brown's SDR-Console.<br> 
+## Features
+* generates an adjustable morse tone (forwarded to Trx e.g. via virtual sound card) 
+* adjustable midi tones for 'dit' and 'dah' recognition
+* generates a PTT command (forwarded to Trx e.g. via virtual serial interface)
+** adjustable commands for TX and RX
+** adjustable lead- and holding time for PTT   
+* "lambic A" or "lambic B" mode with adjustable Tempo
+<br> 
 <br>
 <br>
 ## License
