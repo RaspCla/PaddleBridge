@@ -1,5 +1,14 @@
-// =============================================================================
+// =================================================================================
 //  PaddleBridge
+// 
+//  --------------------------------------------------------------------------------
+//  Required Notice: Copyright (c) 2026 RaspCla (https://github.com/RaspCla)
+//  Required Notice: Project: PaddleBridge (https://github.com/RaspCla/PaddleBridge)
+//  Licensed under the PolyForm Noncommercial License 1.0.0
+//  https://polyformproject.org/licenses/noncommercial/1.0.0
+//  See LICENSE for the full license text.
+//  --------------------------------------------------------------------------------
+// 
 //  MIDI-Morsepaddle -> Iambic-Keyer -> CW-Ton (WASAPI) + CAT-PTT fuer SDR Console
 //
 //  Kette:  Paddle -> ESP32-S3 (USB-MIDI) -> PaddleBridge -> VB-Cable -> SDR Console
@@ -9,7 +18,7 @@
 //  Reines Win32 / WASAPI / WinMM, keine Fremdbibliotheken.
 //  Einstellungen werden in PaddleBridge.ini neben der exe gespeichert.
 //  Erstellt mit Unterstuetzung von Claude (Anthropic).
-// =============================================================================
+// =================================================================================
 
 #ifndef UNICODE
 #define UNICODE
