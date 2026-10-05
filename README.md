@@ -4,8 +4,8 @@ This Windows app allows to connect a morse paddle which is connected via a USB M
 * generates an adjustable morse tone (forwarded to Trx e.g. via virtual sound card) 
 * adjustable midi tones for 'dit' and 'dah' recognition
 * generates a PTT command (forwarded to Trx e.g. via virtual serial interface)
-- adjustable commands for TX and RX
-- adjustable lead- and holding time for PTT   
+*  adjustable commands for TX and RX
+*  adjustable lead- and holding time for PTT   
 * "lambic A" or "lambic B" mode with adjustable Tempo
 <br> 
 <br>
